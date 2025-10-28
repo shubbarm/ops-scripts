@@ -1,6 +1,6 @@
 # Linux Toolbox
 
-A curated collection of Linux and Kubernetes scripts for automation, cluster ops, and DevOps workflows. Built and maintained.
+A collection of Linux and Kubernetes scripts for automation, cluster ops, and DevOps workflows. 
 
 ## What’s Inside
 
